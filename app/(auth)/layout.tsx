@@ -27,7 +27,7 @@ export default function RootLayout({
       <div className="absolute bottom-0 left-0 right-0 top-0 mx-auto my-auto h-[425px] w-full rounded-full blur-[350px] sm:w-[425px] hidden md:block" />
       {/* Background update ends here */}
 
-      <div className="h-[750px] w-full md:h-[900px] lg:h-[592px] 3xl:max-w-[1200px] bg-[#93a2d4] bg-transparent hidden md:block mt-4">
+      <div className="h-[750px] w-full md:h-[900px] lg:h-[592px] 3xl:max-w-[1200px] bg-[#93a2d4] bg-transparent hidden md:block mt-12">
         {" "}
         {/* Added mt-12 for margin */}
         <motion.div
@@ -43,7 +43,7 @@ export default function RootLayout({
             amount: "some",
             once: true,
           }}
-          className="absolute top-[15px] left-0 right-0 z-30 hidden md:flex h-[400px] w-full flex-col justify-start -space-y-[140px] overflow-clip sm:h-[500px] sm:-space-y-[290px] md:left-auto md:right-[50px] md:h-[500px] md:w-auto md:-space-y-[320px] lg:right-0 lg:h-[650px] lg:-space-y-[290px] xl:-space-y-0"
+          className="absolute top-[30px] left-0 right-0 z-30 hidden md:flex h-[400px] w-full flex-col justify-start -space-y-[140px] overflow-clip sm:h-[500px] sm:-space-y-[290px] md:left-auto md:right-[50px] md:h-[500px] md:w-auto md:-space-y-[320px] lg:right-0 lg:h-[650px] lg:-space-y-[290px] xl:-space-y-0"
         >
           <motion.img
             initial={{ opacity: 0, y: 250 }}

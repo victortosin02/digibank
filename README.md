@@ -17,14 +17,14 @@
 
 ## 📋 <a name="table">Table of Contents</a>
 
-1. 🤖 [Project Overview](#project-overview)
+1. 🤖 [Introduction](#introduction)
 2. ⚙️ [Tech Stack](#tech-stack)
 3. 🔋 [Features](#features)
 4. 🤸 [Quick Start](#quick-start)
 
 ## 🚨 Project Overview
 
-## <a name="project-overview">🤖 Project Overview</a>
+## <a name="introduction">🤖 Introduction</a>
 
 Built with Next.js, DigiBank is a financial SaaS platform that connects to multiple bank accounts, displays transactions in real-time, allows users to transfer money to other platform users, and manages their finances altogether.
 

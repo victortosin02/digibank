@@ -13,22 +13,18 @@
   </div>
 
   <h3 align="center">A Fintech Bank Application</h3>
-
-   <div align="center">
-     Build this project step by step with our detailed tutorial on <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a> YouTube. Join the JSM family!
-    </div>
 </div>
 
 ## 📋 <a name="table">Table of Contents</a>
 
-1. 🤖 [Project Overview](#Project Overview)
+1. 🤖 [Project Overview](#project-overview)
 2. ⚙️ [Tech Stack](#tech-stack)
 3. 🔋 [Features](#features)
 4. 🤸 [Quick Start](#quick-start)
 
 ## 🚨 Project Overview
 
-## <a name="Project Overview">🤖 Project Overview</a>
+## <a name="project-overview">🤖 Project Overview</a>
 
 Built with Next.js, DigiBank is a financial SaaS platform that connects to multiple bank accounts, displays transactions in real-time, allows users to transfer money to other platform users, and manages their finances altogether.
 
